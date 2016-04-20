@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Netflix
+Comment=Netflix is the world’s leading subscription service for watching TV episodes and movies.
+TryExec=google-chrome-stable
+Exec=google-chrome-stable --app="https://netflix.com"
+Icon=Netflix
+Terminal=false
+Categories=AudioVideo;Video;TV;Player;
